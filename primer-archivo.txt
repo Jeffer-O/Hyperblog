@@ -3,3 +3,6 @@ terminal de comandos instalada con WSL II
 
 al parecer se puede hacer todo tipo de cambios directamente desdela terminal de comandos
 invocando a vsc, que increible!
+
+Desde la terminal se puede mandar este archivo a github, 
+mostrar que cambios se han hecho y quienes lo han hecho.
