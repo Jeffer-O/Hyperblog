@@ -1,2 +1,5 @@
 Hola  Este es mi primer archivo de texto creado directamente desde la
 terminal de comandos instalada con WSL II
+
+al parecer se puede hacer todo tipo de cambios directamente desdela terminal de comandos
+invocando a vsc, que increible!
